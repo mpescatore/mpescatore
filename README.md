@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpescatore
 - 👀 I’m interested in evrything
-- 🌱 I’m currently learning ... vm linux etc etc
+- 🌱 I’m currently learning ... vm linux bash scripting etc etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
